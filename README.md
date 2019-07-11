@@ -1,6 +1,10 @@
 # Daily-Reading
 Blogs and articles 
 
+#### 11/7/2019
+https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/microservices/aks
+
+
 #### 4/7/2019
 https://www.nngroup.com/articles/popups/
 
