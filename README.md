@@ -3,6 +3,7 @@ Blogs and articles
 
 #### 16/7/2019
 https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886
+https://speakerdeck.com/vjeux/react-css-in-js?slide=38
 
 #### 11/7/2019
 https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/microservices/aks
