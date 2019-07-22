@@ -1,6 +1,14 @@
 # Daily-Reading
 Blogs and articles 
 
+#### 22/7/2019
+https://www.pagecloud.com/blog/how-to-integrate-motion-into-your-website-design
+https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc
+https://alistapart.com/article/integrating-animation-into-a-design-system/
+
+https://github.com/webpack-contrib/webpack-bundle-analyzer
+
+
 #### 16/7/2019
 https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886
 https://speakerdeck.com/vjeux/react-css-in-js?slide=38
