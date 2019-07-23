@@ -1,6 +1,10 @@
 # Daily-Reading
 Blogs and articles 
 
+#### 23/7/2019
+https://eng.uber.com/tech-stack-part-one/#attachment_479
+https://eng.uber.com/tech-stack-part-two/
+
 #### 22/7/2019
 https://www.pagecloud.com/blog/how-to-integrate-motion-into-your-website-design
 https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc
