@@ -1,6 +1,10 @@
 # Daily-Reading
 Blogs and articles 
 
+#### 24/7/2019
+https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/
+
+
 #### 23/7/2019
 https://eng.uber.com/tech-stack-part-one/#attachment_479
 
