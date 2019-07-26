@@ -1,6 +1,9 @@
 # Daily-Reading
 Blogs and articles 
 
+#### 26/7/2019
+https://medium.com/iconscout/colors-in-ui-design-theory-psychology-practice-f6d6a5e6e04d
+
 #### 24/7/2019
 https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/
 
