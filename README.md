@@ -1,5 +1,11 @@
 # Daily-Reading
-Blogs and articles 
+Blogs and articles
+
+#### 30/7/2019
+
+https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction
+
+https://codingsans.com/blog/code-review
 
 #### 26/7/2019
 https://medium.com/iconscout/colors-in-ui-design-theory-psychology-practice-f6d6a5e6e04d
