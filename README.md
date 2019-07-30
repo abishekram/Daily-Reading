@@ -7,6 +7,14 @@ https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction
 
 https://codingsans.com/blog/code-review
 
+https://www.sandimetz.com/blog/2017/9/13/breaking-up-the-behemoth
+
+https://martinfowler.com/bliki/DesignStaminaHypothesis.html
+
+https://martinfowler.com/bliki/TechnicalDebt.html
+
+https://martinfowler.com/bliki/CannotMeasureProductivity.html
+
 #### 26/7/2019
 https://medium.com/iconscout/colors-in-ui-design-theory-psychology-practice-f6d6a5e6e04d
 
