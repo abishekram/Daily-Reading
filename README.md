@@ -1,6 +1,10 @@
 # Daily-Reading
 Blogs and articles
 
+#### 09/08/2019
+
+https://www.youtube.com/watch?v=7Z9rrryIOC4
+
 #### 30/7/2019
 
 https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction
