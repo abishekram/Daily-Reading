@@ -1,6 +1,10 @@
 # Daily-Reading
 Blogs and articles
 
+###24/09/2019
+
+https://www.youtube.com/watch?v=hsr4ArAsOL4&feature=youtu.be
+
 #### 09/08/2019
 
 https://www.youtube.com/watch?v=7Z9rrryIOC4
