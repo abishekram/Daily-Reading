@@ -2,12 +2,15 @@
 Blogs and articles
 ###04/10/2019
 
-https://www.youtube.com/watch?v=_RgUxUTuxH4
+https://www.youtube.com/watch?v=_RgUxUTuxH4 - Event source
 
+###27/09/2019
+
+https://www.youtube.com/watch?v=kyNL7yCvQQc - Go Microservice
 
 ###25/09/2019
 
-https://www.youtube.com/watch?v=4MEKu2TcEHM
+https://www.youtube.com/watch?v=4MEKu2TcEHM - Venkat Speech
 
 ###24/09/2019
 
