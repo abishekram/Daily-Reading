@@ -1,5 +1,11 @@
 # Daily-Reading
 Blogs and articles
+
+###08/10/2019
+
+https://www.youtube.com/watch?v=4anAwXYqLG8 - Minimal API surface
+
+
 ###04/10/2019
 
 https://www.youtube.com/watch?v=_RgUxUTuxH4 - Event source
