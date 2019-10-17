@@ -1,5 +1,8 @@
 # Daily-Reading
 Blogs and articles
+###17/10/2019
+
+https://www.youtube.com/watch?v=UKx9YkOF03Q&feature=youtu.be - Spring 18 years (Best for building things that can run for a long time)
 
 ###08/10/2019
 
