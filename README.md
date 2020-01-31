@@ -1,31 +1,33 @@
 # Daily-Reading
+
 Blogs and articles
 
-###31/1/2019
+### 31/1/2019
+
 https://www.infoq.com/presentations/effective-api-design/ - Design a Good API 
 
-###17/10/2019
+### 17/10/2019
 
 https://www.youtube.com/watch?v=UKx9YkOF03Q&feature=youtu.be - Spring 18 years (Best for building things that can run for a long time)
 
-###08/10/2019
+### 08/10/2019
 
 https://www.youtube.com/watch?v=4anAwXYqLG8 - Minimal API surface
 
 
-###04/10/2019
+### 04/10/2019
 
 https://www.youtube.com/watch?v=_RgUxUTuxH4 - Event source
 
-###27/09/2019
+### 27/09/2019
 
 https://www.youtube.com/watch?v=kyNL7yCvQQc - Go Microservice
 
-###25/09/2019
+### 25/09/2019
 
 https://www.youtube.com/watch?v=4MEKu2TcEHM - Venkat Speech
 
-###24/09/2019
+### 24/09/2019
 
 https://www.youtube.com/watch?v=hsr4ArAsOL4&feature=youtu.be
 
