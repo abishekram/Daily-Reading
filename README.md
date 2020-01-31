@@ -1,6 +1,8 @@
 # Daily-Reading
 Blogs and articles
 
+###31/1/2019
+https://www.infoq.com/presentations/effective-api-design/ - Design a Good API 
 
 ###17/10/2019
 
