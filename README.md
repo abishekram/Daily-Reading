@@ -2,6 +2,12 @@
 
 Blogs and articles
 
+### 05/12/2020
+
+https://www.youtube.com/watch?v=9I9GdSQ1bbM - Microservices pattern
+
+https://www.youtube.com/watch?v=GBTdnfD6s5Q - Microservice when/not
+
 ### 31/1/2019
 
 https://www.infoq.com/presentations/effective-api-design/ - Design a Good API 
