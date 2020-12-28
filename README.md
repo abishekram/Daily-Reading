@@ -2,6 +2,10 @@
 
 Blogs and articles
 
+### 28/12/2020
+
+https://www.youtube.com/watch?v=oNA2C1vC8FQ - Instagram scaling
+
 ### 05/12/2020
 
 https://www.youtube.com/watch?v=9I9GdSQ1bbM - Microservices pattern
